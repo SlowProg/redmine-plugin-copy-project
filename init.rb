@@ -1,4 +1,4 @@
-Redmine::Plugin.register :redmine_plugin_copy_project do
+Redmine::Plugin.register :redmine_copy_project do
   name 'Copy plugin'
   author 'Victor Ratuchenei'
   description 'This is a plugin for Redmine'
