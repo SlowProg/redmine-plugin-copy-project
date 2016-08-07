@@ -10,8 +10,8 @@ It powered by standard functionality copying, but without the need to be an admi
 
 ## Install
 
-1. Follow the [Redmine plugin installation](http://www.redmine.org/wiki/redmine/Plugins) steps. Make sure the plugin is installed to `plugins/redmine_copy_project`:
-  * git clone https://github.com/SlowProg/redmine_copy_project.git
+1. Make sure the plugin is installed to `plugins/redmine_copy_project`:
+  * `git clone https://github.com/SlowProg/redmine_copy_project.git`
 2. Restart Redmine.
 
 Now you should be able to see the plugin in **Administration > Plugins**.
