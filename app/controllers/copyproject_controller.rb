@@ -2,6 +2,9 @@ class CopyprojectController < ApplicationController
   before_filter :find_project, :authorize, :only => :index
 
   def index
+    # @project = Project.find(params[:id])
+    # logger.debug("весь набор " + YAML::dump(@project.issues.last.checklist))
+
     @issue_custom_fields = IssueCustomField.sorted.to_a
     @trackers = Tracker.sorted.to_a
     @source_project = Project.find(params[:id])

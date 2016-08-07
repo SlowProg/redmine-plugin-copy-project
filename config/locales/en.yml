@@ -1,3 +1,4 @@
 en:
+   label_project_new_based_another: Create project based on %{project_name}
    permission_copy_project: Copy project
    notice_project_copied: "Successfully completed copy"

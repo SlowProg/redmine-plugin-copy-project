@@ -1,3 +1,4 @@
 pt-BR:
+   label_project_new_based_another: Create project based on %{project_name}
    permission_copy_project: Copiar projeto
    notice_project_copied: "Cópia realizada com sucesso"
