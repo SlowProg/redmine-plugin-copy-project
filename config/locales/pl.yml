@@ -1,0 +1,4 @@
+﻿pl:
+   label_project_new_based_another: Stwórz projekt bazując na %{project_name}
+   permission_copy_project: Kopiowanie projektów
+notice_project_copied: "Projekt został skopiowany"
